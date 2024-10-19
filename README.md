@@ -4,9 +4,10 @@
 
 Data Analyst with Civil Engineering Background Passionate about merging my engineering expertise with data analysis to uncover patterns, trends, and insights
 
-Skills: SQL - Excel - Python - Tableau - Power BI
+## SKILLS 
+SQL - Excel - Python - Tableau - Power BI
 
-- 🌱 I’m currently learning Data Analyst Advanced - Data Analyst with Power BI 
+- 🌱 I’m currently learning: Data Analyst Advanced and Data Analyst with Power BI 
 - 📫 How to reach me: k.espinozano@gmail.com 
 
 
