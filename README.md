@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋, I'm Kevin Espinoza
+#### Data analyst 
+![Data analyst ](https://media.licdn.com/dms/image/v2/D4D16AQFOWD2IX9iDnA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729212381718?e=1734566400&v=beta&t=BZdYG8cA-fDdS3jPSKxf-1qb4JVDeS8SiwZi2UXXB3M)
 
-<!--
-**KevinEspinozaN/KevinEspinozaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with Civil Engineering Background Passionate about merging my engineering expertise with data analysis to uncover patterns, trends, and insights
 
-Here are some ideas to get you started:
+Skills: SQL - Excel - Python - Tableau - Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Data Analyst Advanced - Data Analyst with Power BI 
+- 📫 How to reach me: k.espinozano@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KevinEspinozaN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kevin-espinoza-norambuena-341133ab//)  
+
